@@ -1,0 +1,39 @@
+body {
+	background-color: #FDF5E6;
+	font: 18px Helvetica, arial, freesans, clean, sans-serif;
+}
+
+#main {
+	padding: 120px 0px 0px 0px;
+}
+
+#main a {
+	text-decoration: none;
+}
+
+#main a:hover {
+	position: relative;
+	color: red;
+	top: 1px;
+	left: 1px;
+}
+
+#main .enabled-text {
+	font-size: 16px;
+	color: #D87093;
+}
+
+#main .enabled-text:hover {
+	cursor: pointer;
+	color: gray;
+}
+
+#main textarea {
+	padding: 10px 15px;
+}
+
+#main .disabled-text {
+	color: gray;
+	font-size: 16px;
+	text-decoration: line-through;
+}
