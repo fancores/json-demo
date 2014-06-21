@@ -23,7 +23,9 @@
 #	
 #	01. 导入项目报错
 #	
-#		检查项目依赖包, src/main/webapp/WEB-INF/lib, 选中JAR ——> 右键 ——> Build Path ——> Add to Build Path
+#		检查项目依赖包, src/main/webapp/WEB-INF/lib
+#		
+#		选中 JAR ——> 右键 ——> Build Path ——> Add to Build Path
 #	
 #	02. 导入项目结构混乱
 #	
